@@ -1,3 +1,3 @@
 # myRrepo
 
-This is a line from Rstudio
+This repository is for private projects
